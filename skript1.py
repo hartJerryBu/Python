@@ -31,6 +31,10 @@ print("4444gghh")
 
 print("4444gghh544554554554")
 
+print( " snad to půjde ")
+
+print( " to je trochu moc ")
+
 
 
 
