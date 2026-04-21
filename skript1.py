@@ -36,6 +36,9 @@ print( " snad to půjde ")
 print( " to je trochu moc ")
 
 
+auta = ['Škoda', 'Volkswagen', 'Ford', 'Toyota', 'Honda']
 
-
-
+while auta:
+    print(f"Před: {auta}")
+    print(auta.pop (-1))
+    
